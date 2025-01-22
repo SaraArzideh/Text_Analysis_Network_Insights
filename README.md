@@ -30,13 +30,6 @@ This repository contains a Python script for performing network analysis on co-o
 
 ---
 
-## 📸 Example Output
-The script generates visualizations like the one below, showcasing co-occurrence networks.
-
-![image](https://github.com/user-attachments/assets/8a4f065a-4c5c-4386-860c-f904b56e1e13)
-
----
-
 ## 🔧 How to Use
 1. Place your co-occurrence data in a file named `filtered_co_occurrence_data.csv`.
 2. Run the script:
